@@ -1,0 +1,312 @@
+@font-face {font-family: "Gotham Black";
+  src: url("https://ceramicprosthlm.se/wp-content/fonts/0f9c349da923afea31fae4db7b8094f0.eot"); /* IE9*/
+  src: url("https://ceramicprosthlm.se/wp-content/fonts/0f9c349da923afea31fae4db7b8094f0.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("https://ceramicprosthlm.se/wp-content/fonts/0f9c349da923afea31fae4db7b8094f0.woff2") format("woff2"), /* chrome、firefox */
+  url("https://ceramicprosthlm.se/wp-content/fonts/0f9c349da923afea31fae4db7b8094f0.woff") format("woff"), /* chrome、firefox */
+  url("https://ceramicprosthlm.se/wp-content/fonts/0f9c349da923afea31fae4db7b8094f0.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("https://ceramicprosthlm.se/wp-content/fonts/0f9c349da923afea31fae4db7b8094f0.svg#Gotham Black") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Gotham Book";
+  src: url("https://ceramicprosthlm.se/wp-content/fonts/924ee4158324c02e3e0d62e54cafd14f.eot"); /* IE9*/
+  src: url("https://ceramicprosthlm.se/wp-content/fonts/924ee4158324c02e3e0d62e54cafd14f.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("https://ceramicprosthlm.se/wp-content/fonts/924ee4158324c02e3e0d62e54cafd14f.woff2") format("woff2"), /* chrome、firefox */
+  url("https://ceramicprosthlm.se/wp-content/fonts/924ee4158324c02e3e0d62e54cafd14f.woff") format("woff"), /* chrome、firefox */
+  url("https://ceramicprosthlm.se/wp-content/fonts/924ee4158324c02e3e0d62e54cafd14f.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("https://ceramicprosthlm.se/wp-content/fonts/924ee4158324c02e3e0d62e54cafd14f.svg#Gotham Book") format("svg"); /* iOS 4.1- */
+}
+
+
+.qodef-pricing-table .qodef-m-content {
+
+	padding: 0px 5px 0px
+
+}
+
+.service h2 {
+	font-family:"Gotham Black" !important;
+}
+
+h1{
+	font-family:"Gotham Black" !important;
+
+}
+
+h2{
+	font-family:"Gotham Black" !important;
+	font-size: 28px; !important;
+
+
+}
+
+h3{
+	font-family:"Gotham Black" !important;
+	font-size: 18px; !important;
+
+
+}
+h4{
+	font-family:"Gotham Black" !important;
+	font-size: 16px; !important;
+
+
+}
+h5{
+	font-family:"Gotham Black" !important;
+	font-size: 15px; !important;
+
+
+}
+h6{
+	font-family:"Gotham Black" !important;
+	font-size: 12px; !important;
+
+
+}
+label {
+	font-family:"Gotham Book"; !important;
+}
+
+span {
+	font-family:"Gotham Book"; !important;
+}
+
+
+p {
+	font-family:"Gotham Book"; !important;
+	font-size: 14px;
+	font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+.widget.widget_nav_menu a {
+	font-family:"Gotham Book"; !important;
+}
+
+
+
+.home .qodef-pricing-table .qodef-m-title {
+justify-content: center !important;
+}
+.qodef-pricing-table .qodef-m-title {
+justify-content: center !important;
+}
+.qodef-pricing-table .qodef-m-content ul li{
+ font-family:"Gotham Book" !important;
+font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+
+
+}
+.qodef-pricing-table .qodef-e-content {
+justify-content: center !important;
+		padding-left: 5px;!important;
+		padding-right: 5px;!important;
+
+
+}
+
+.qodef-pricing-table .qodef-m-button{
+	text-align: center;!important;
+}
+.elementor-widget-price-table, .elementor-widget-price-table>div, .elementor-price-table {
+    height: 100%;
+}
+
+
+
+
+.elementor-price-table {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+	background-color: white;
+}
+
+.elementor-price-table__footer {
+    margin-top: auto;
+}
+
+.elementor-widget-jet-pricing-table, .elementor-widget-jet-pricing-table>div, .pricing-table {
+    height: 100%;
+}
+
+
+
+.qodef-pricing-table .qodef-m-title p:first-child {
+    display: none;
+}
+.qodef-pricing-table .qodef-m-title .qodef-info-separator-single {
+    display: none;
+}
+
+.qodef-m-price-value {
+font-size: 18px;!important;
+
+}
+.qodef-m-price-currency{
+
+font-size: 18px;!important;
+}
+}
+
+.qodef-button.qodef-layout--outlined {
+
+    border-radius: 50px;
+}
+
+.qodef-pricing-table .qodef-m-title p {
+	font-size: 16px;!important;
+
+}
+
+.qodef-pricing-table .qodef-m-title p {
+	font-family: 'Gotham Black', sans-serif;
+}
+
+.qodef-m-content {
+
+	font-size: 14px;!important;
+
+}
+
+
+#qodef-page-footer-top-area-inner{
+	padding-top:30px;
+	padding-bottom:0px;
+
+}
+
+.qodef-pricing-table .qodef-m-button .qodef-button.qodef-size--small {
+
+	border-radius: 50px ;}
+
+span.qodef-m-price-currency {
+ padding-right: 15px !important;
+}
+@media only screen and (max-width: 765px) {
+/* .qodef-pricing-table .qodef-e-content {
+    min-height: 637px !important;
+}
+	.qodef-pricing-table .qodef-m-title p {
+	margin: 0px 10px 0px 30px;
+}
+	 */
+}
+@media only screen and (max-width: 600px) {
+  .elementor-widget-container .qodef-interactive-link-showcase .qodef-m-item {
+    font-size: 28px!important;
+}
+
+.qodef-shortcode.qodef-m.qodef-section-title h2 {
+    font-size: 20px !important;
+}
+
+	p {
+		font-size: 14px!important;
+
+	}
+}
+@media screen and (max-width: 1450px) {
+
+
+
+	.qodef-m-price-value {
+	font-size:15px;!important;
+}
+.qodef-m-price-currency{
+
+	font-size:15px;!important;
+
+}
+
+.qodef-pricing-table .qodef-m-title p {
+	font-size: 16px;!important;
+}
+
+.qodef-pricing-table .qodef-m-title p {
+	font-family: 'Gotham Black', sans-serif;
+}
+
+.qodef-m-content {
+
+	font-size: 14px;!important;
+}
+
+	.qodef-pricing-table.qodef-layout--standard.qodef-status--regular .qodef-e-content{
+		padding: 25px 10px 10px 25px;
+	}
+
+	@media screen and (max-width: 1250px) {
+
+
+		.qodef-pricing-table .qodef-m-title p {
+	font-size: 12px;!important;
+}
+		h1{
+	font-family:"Gotham Black" !important;
+	font-size: 12px !important;
+
+}
+}
+@media screen and (min-width: 1025px) and (max-width: 1400px) {
+.qodef-pricing-table .qodef-m-button .qodef-button.qodef-size--small {
+    padding-left: 10px;
+    padding-right: 10px;
+	font-size: 12px;
+}
+.qodef-pricing-table .qodef-e-content {
+    padding-left: 5px;
+    padding-right: 5px;
+
+
+}
+	.home .qodef-pricing-table .qodef-e-content {
+justify-content: center !important;
+		padding-left: 5px;!important;
+		padding-right: 5px;!important;
+
+}
+.elementor-price-table .elementor-price-table__header h3{
+	font-size: 18px;
+}
+
+	.elementor-widget-price-table, .elementor-widget-price-table>div, .elementor-price-table {
+    width: 250px;
+}
+
+
+}
+@media only screen and (max-width: 1024px) {
+header#qodef-page-mobile-header {
+    position: fixed !important;
+    left: 0 !important;;
+    width:100%;
+    display: block !important;
+    transform: none !important;
+}
+
+	.qodef-image-with-text .qodef-m-title{
+		font-size: 18px;!important;
+	}
+
+
+
+}
+
+
+	@media screen and (min-width: 1400px) and (max-width: 2200px) {
+.qodef-pricing-table .qodef-e-content {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+}
